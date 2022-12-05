@@ -1,0 +1,32 @@
+.Intro {
+    background-color: #F5EFE6;
+    text-align: center;
+    
+}
+.name {
+    color: #344D67;
+    font-size: 50px;
+    font-weight: 100;
+}
+#title{
+    color: #6ECCAF;
+    font-size: 50px;
+    font-weight: 200;
+
+    
+}
+h1{
+    color: #ABD9FF;
+    font-size: 50px;
+    font-weight: 100;
+}
+.text{
+    text-align: center;
+    font-size: 30px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+.anime{
+    color: #ADE792;
+    font-family: 'Josefin Sans', sans-serif;
+
+}

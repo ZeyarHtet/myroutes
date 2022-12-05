@@ -1,0 +1,26 @@
+/* *{
+    margin: 0;
+    padding: 0;
+} */
+
+.Intro {
+    /* background-color: #F5EFE6; */
+    text-align: center;
+    
+}
+.name {
+    color: black;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Dancing Script', cursive;
+}
+#title{
+    color: grey;
+    font-size: 50px;
+    font-weight: 200;
+    font-family: 'Libre Baskerville', serif;
+    
+}
+/* .btn{
+    text-align: center;
+} */
